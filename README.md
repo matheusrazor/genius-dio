@@ -1,6 +1,10 @@
-# Oi, tudo bem? Chegou aqui através do curso, certo? 🙃
+# Recriando o jogo Genius apresentado na DIO
 
-Esse é o repositório da nossa aula de Javascript, na qual vamos fazer um simples jogo Gênesis com apenas algumas linhas de código! 
+Repositorio clonado de:
+    https://github.com/SpruceGabriela/genesis-dio
+
+## Novas funcionalidades implementadas:
+- A cor agora pisca para avisar ao jogador a ordem, ao contrario de antes que ela permanecia acesa, criando confusao quando a mesma cor era chamada varias vezes seguidas.
 
 ### Os requisitos são:
 
